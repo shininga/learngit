@@ -4,3 +4,4 @@ shining haha
 Git tracks changes of file
 shining666
 Creating a new branch is quick
+Creating a new branch is quick AND simple
